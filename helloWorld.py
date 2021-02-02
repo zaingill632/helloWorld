@@ -1,1 +1,1 @@
-printf("Hello, this is the firt pipeline in Azure DevOps")
+print("Hello, this is the firt pipeline")
